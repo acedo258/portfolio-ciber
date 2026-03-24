@@ -56,7 +56,7 @@ section:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  opacity: 0.11;               /* Muy sutil para no tapar el texto */
+  opacity: 0.20;               /* Muy sutil para no tapar el texto */
 }
 
 .ascii-art {
