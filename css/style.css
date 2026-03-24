@@ -37,7 +37,7 @@ a {
 }
 
 section:hover {
-  background-color:#040724;
+    background-color: rgba(4, 7, 36, 0.5); /* color #040724 con 50% de opacidad */
   transform: scale(1.02);
   transition: all 0.3s ease;
 }
