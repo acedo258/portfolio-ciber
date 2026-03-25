@@ -1,7 +1,7 @@
 // TYPING EFFECT
 const phrases = [
   "Ingeniera informática...",
-  "Buscando primeras prácticas...",
+  "Buscando prácticas...",
 ];
 
 let i = 0, j = 0, current = [], deleting = false;
